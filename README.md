@@ -1,15 +1,15 @@
 #Setup
 
-Install t2m beforehand
+Install [t2m](https://github.com/YoloSwagTeam/t2m) beforehand
 
 Setup the two first variables at the top of the script
 
-#Usage
+#Usage examples
 
-Add a the @Tvax Twitter account to the Mastodon account specified in $mastodon
+Add @Tvax Twitter account to the Mastodon account specified in $masto_account :
 
-./add_account.sh @Tvax
+`./add_account.sh @Tvax`
 
-Loop to add mutiple accounts
+Loop to add mutiple accounts :
 
-./add_account.sh -l
+`./add_account.sh -l`
