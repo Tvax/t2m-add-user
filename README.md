@@ -1,10 +1,10 @@
-#Setup
+# Setup
 
 Install [t2m](https://github.com/YoloSwagTeam/t2m) beforehand
 
 Setup the two first variables at the top of the script
 
-#Usage examples
+# Usage examples
 
 Add @Tvax Twitter account to the Mastodon account specified in $masto_account :
 
